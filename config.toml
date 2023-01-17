@@ -1,16 +1,16 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://teaching640.makingandknowing.org/"
+baseURL = "https://cu-mkp.github.io/editioncrafter-project/"
 
 # Basic metadata configuration for your blog.
 theme = "rtc"
-title = "Research and Teaching Companion"
+title = "EditionCrafter Hugo Project"
 author = "Columbia University"
-copyright = "Copyright © 2022, Columbia University"
+copyright = "Copyright © 2023, Columbia University"
 languageCode = "en-US"
 
 # Generate robots.txt for SEO
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Set to "WARNING" so that broken links don't break the build process. Default is "ERROR".
 refLinksErrorLevel = "WARNING"

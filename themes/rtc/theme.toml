@@ -1,8 +1,8 @@
-name = "Research and Teaching Companion"
-description = "The theme for the Making and Knowing Project's Research and Teaching Companion"
+name = "EditionCrafter"
+description = "The theme for the Making and Knowing Project's EditionCrafter"
 license = "MIT"
-licenselink = "https://github.com/cu-mkp/research-teaching-companion/blob/main/themes/rtc/LICENSE"
-homepage = "https://teaching640.makingandknowing.org/"
+licenselink = "https://github.com/cu-mkp/editioncrafter/blob/main/themes/rtc/LICENSE"
+homepage = "https://github.com/cu-mkp/editioncrafter"
 tags = []
 features = []
 min_version = "0.41.0"
