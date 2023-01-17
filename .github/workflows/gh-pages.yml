@@ -8,6 +8,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout latest code
         uses: actions/checkout@v3
@@ -17,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: '0.101.0'
           extended: true
 
       - name: Build and minify with Hugo
