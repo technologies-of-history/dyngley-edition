@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <h1 class="page-title">{{ .Title }}</h1>
+
+    <div id="edition-crafter"/> 
+
+    <script type="text/javascript" src="/js/editioncrafter.min.js" ></script>
+
+    <script type="text/javascript">
+        var ec = EditionCrafter.viewer({
+            "id": "edition-crafter",
+            "manifest": "{{ .Params.manifest_url }}"
+        });
+    </script>
+{{ end }}
