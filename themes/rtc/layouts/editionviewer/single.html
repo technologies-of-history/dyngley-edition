@@ -1,14 +1,21 @@
 {{ define "main" }}
     <h1 class="page-title">{{ .Title }}</h1>
 
-    <div id="edition-crafter"/> 
+    <div id="ec"></div>
 
     <script type="text/javascript" src="/js/editioncrafter.min.js" ></script>
 
     <script type="text/javascript">
         var ec = EditionCrafter.viewer({
-            "id": "edition-crafter",
-            "manifest": "{{ .Params.manifest_url }}"
+            id: 'ec',
+            iiifManifest: '{{ .Params.manifest_url }}',
+            transcriptionTypes: {
+                tc: 'Diplomatic (FR)',
+                tcn: 'Normalized (FR)',
+                tl: 'Translation (EN)',
+            },
+            commentsURL: 'http://localhost:1313/fr640_3r-3v-example/comments.json',
+            glossaryURL: 'http://localhost:1313/fr640_3r-3v-example/glossary.json',
         });
     </script>
 {{ end }}
