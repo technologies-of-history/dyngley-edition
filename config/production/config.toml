@@ -1,3 +1,5 @@
 # Base URL used when generating links to your pages
-baseURL = "https://cu-mkp.github.io/editioncrafter-project/"
 canonifyURLs = true
+
+[Params]
+    baseurl = "https://cu-mkp.github.io/editioncrafter-project"

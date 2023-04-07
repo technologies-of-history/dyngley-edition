@@ -1,5 +1,4 @@
 {{ define "main" }}
-    <h1 class="page-title">{{ .Title }}</h1>
 
     <div id="ec"></div>
 
@@ -8,14 +7,14 @@
     <script type="text/javascript">
         var ec = EditionCrafter.viewer({
             id: 'ec',
-            iiifManifest: '{{ .Params.manifest_url }}',
+            iiifManifest: '{{ .Site.Params.baseURL }}/{{ .Params.documentID }}/iiif/manifest.json',
             transcriptionTypes: {
                 tc: 'Diplomatic (FR)',
                 tcn: 'Normalized (FR)',
                 tl: 'Translation (EN)',
             },
-            commentsURL: '/fr640_3r-3v-example/comments.json',
-            glossaryURL: '/fr640_3r-3v-example/glossary.json',
+            commentsURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/comments.json',
+            glossaryURL: '{{ .Site.Params.baseURL }}/{{ .Params.documentID }}/glossary.json',
         });
     </script>
 {{ end }}
