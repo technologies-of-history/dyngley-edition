@@ -7,14 +7,14 @@
     <script type="text/javascript">
         var ec = EditionCrafter.viewer({
             id: 'ec',
-            iiifManifest: '{{ .Site.Params.baseURL }}/{{ .Params.documentID }}/iiif/manifest.json',
+            iiifManifest: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/iiif/manifest.json',
             transcriptionTypes: {
                 tc: 'Diplomatic (FR)',
                 tcn: 'Normalized (FR)',
                 tl: 'Translation (EN)',
             },
             commentsURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/comments.json',
-            glossaryURL: '{{ .Site.Params.baseURL }}/{{ .Params.documentID }}/glossary.json',
+            glossaryURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/glossary.json',
         });
     </script>
 {{ end }}
