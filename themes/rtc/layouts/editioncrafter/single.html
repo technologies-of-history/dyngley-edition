@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+    <div id="ec"></div>
+
+    <script type="text/javascript" src="/js/editioncrafter.min.js" ></script>
+
+    <script type="text/javascript">
+        var ec = EditionCrafter.viewer({
+            id: 'ec',
+            iiifManifest: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/iiif/manifest.json',
+            transcriptionTypes: {
+                tc: 'Diplomatic (FR)',
+                tcn: 'Normalized (FR)',
+                tl: 'Translation (EN)',
+            },
+            commentsURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/comments.json',
+            glossaryURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/glossary.json',
+        });
+    </script>
+{{ end }}
