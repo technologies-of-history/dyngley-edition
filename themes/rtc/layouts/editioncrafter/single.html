@@ -2,19 +2,18 @@
 
     <div id="ec"></div>
 
-    <script type="text/javascript" src="https://www.unpkg.com/@performant-software/editioncrafter-umd" ></script>
+    <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
 
     <script type="text/javascript">
         var ec = EditionCrafter.viewer({
             id: 'ec',
-            iiifManifest: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/iiif/manifest.json',
+            documentName: '{{ .Params.documentName }}',
+            iiifManifest: '{{ .Params.documentURL }}',
             transcriptionTypes: {
-                tc: 'Diplomatic (FR)',
-                tcn: 'Normalized (FR)',
-                tl: 'Translation (EN)',
-            },
-            commentsURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/comments.json',
-            glossaryURL: '{{ .Site.Params.baseurl }}/{{ .Params.documentID }}/glossary.json',
+                {{ range $layerKey, $layerName := .Params.transcriptionTypes }}
+                    {{ $layerKey }}: '{{ $layerName }}',
+                {{ end }}
+            }
         });
     </script>
 {{ end }}
