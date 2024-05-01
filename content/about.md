@@ -14,6 +14,6 @@ Early modern English people were avid collectors of medieval manuscripts filled 
 * [Trinity College Cambridge Library MS O.8.35](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35), a later fifteenth-century Middle English all-purpose medical guidebook, identical in format and contents to Bodleian Library MS Add. B.60
 * [Trinity College Cambridge MS R.14.52](https://mss-cat.trin.cam.ac.uk/Manuscript/R.14.52), a mid-fifteenth century manuscript featuring several translations of learned, Latinate medical texts in Middle English
 * [Welcome Library MS 244](https://wellcomecollection.org/works/zztf5pre), a later sixteenth- and seventeenth-century manuscript of medical, meteorological, and alchemical knowledge, begun by Henry Dyngley and completed by his descendants
-* [Wellcome EPB/A/7330, _A newe book Entituled the Gouvernement of Healthe_, William Bulleyn](https://wellcomecollection.org/works/bga5qyg2), a medical manual and dietary published in London in 1558
+* [Wellcome EPB/A/7330, _A newe book Entituled the Gouvernement of Healthe_, by William Bulleyn](https://wellcomecollection.org/works/bga5qyg2), a medical manual and dietary published in London in 1558
 
 The first stage of this project, begun in summer 2023, focuses on Trinity College Cambridge MS O.8.35. To read more about this manuscript, Henry Dyngley, and manuscript collecting in sixteenth-century England, visit the Introductions page.
