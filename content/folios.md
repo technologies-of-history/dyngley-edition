@@ -1,13 +1,11 @@
 ---
-title: "Folios"
+title: "Edition"
 menu: "main"
 draft: false
 type: "editioncrafter"
-documentName: "BnF Ms. Fr. 640"
-documentURL: "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/iiif/manifest.json"
+documentName: "TCC MS O.8.35"
+documentURL: "https://technologies-of-history.github.io/dyngley-data/dyngley/iiif/manifest.json"
 transcriptionTypes:
-    tc: 'Diplomatic (FR)'
-    tcn: 'Normalized (FR)'
-    tl: 'Translation (EN)'
+    text: 'Transcription'
 weight: 30
 ---

@@ -1,9 +1,7 @@
 [![DOI](https://zenodo.org/badge/574679318.svg)](https://zenodo.org/badge/latestdoi/574679318)
 
-# editioncrafter-project
-This is the repository for websites containing EditionCrafter editions. It contains the stub markdown pages and navigation for the websites.
+# Henry Dyngley's Digital Library
 
-- Hugo website template
-- This can now be customized for content
-- Under “Folios,” there is the rendered TEI file of the manuscript
-- Took output of editioncrafter-cli and dropped into the dedicated directory of editioncrafter-project
+This repository was forked from editioncrafter-project by Columbia University's Making and Knowing Project
+and Nicholas Laiacona of Performant Software. It contains a template for running EditionCrafter, a platform
+for publishing digital critical editions.
