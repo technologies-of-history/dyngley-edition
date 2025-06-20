@@ -1,7 +1,9 @@
 [![DOI](https://zenodo.org/badge/574679318.svg)](https://zenodo.org/badge/latestdoi/574679318)
 
-# editioncrafter-project
-This is the repository for websites containing EditionCrafter editions. It contains the stub markdown pages and navigation for the websites.
+https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/
+
+# EditionCrafter Website Repository for Dyngley Family
+This is the repository for the website containing the Dyngley Family edition built with EditionCrafter. It contains the stub markdown pages and navigation for the websites.
 
 - Hugo website template
 - This can now be customized for content
