@@ -32,10 +32,11 @@ header nav {
 .home-link {
         color: white;
         font-family: 'Jim Nightshade';
-        font-weight:lighter;
-        font-size: 32px;
         }
-
+ h2 {
+        font-weight:100;
+        font-size: 40px;
+ }
 
     // list of nav items
     & > ul {
