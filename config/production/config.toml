@@ -1,4 +1,4 @@
 # Base URL used when generating links to your pages
 canonifyURLs = true
-baseURL = "https://technologies-of-history/dyngley-edition"
+baseURL = "https://technologies-of-history.github.io/dyngley-edition"
 
