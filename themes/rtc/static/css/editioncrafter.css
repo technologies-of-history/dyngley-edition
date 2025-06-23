@@ -2404,6 +2404,7 @@ tei-textdesc {
 /* title */
 tei-tei tei-title {
   display: inline;
+  weight: 30;
 }
 
 tei-tei tei-title[level=a] {
