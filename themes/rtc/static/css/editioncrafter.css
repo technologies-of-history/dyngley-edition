@@ -143,39 +143,11 @@ body {
   flex: 12;
 }
 
-.bg-maroon-gradient {
-  background-image: linear-gradient(to right, #792421, #66211c, #531d17, #411912, #30140d);
-}
-
-.bg-dark-gradient-bt {
-  background-image: linear-gradient(to bottom, hsl(30, 50%, 90%), hsl(50, 43%, 83%), hsl(43, 54%, 77%));
-}
-
-.bg-dark-gradient-tb {
-  background-image: linear-gradient(to bottom, hsl(43, 54%, 77%), hsl(50, 43%, 83%), hsl(30, 50%, 90%));
-}
-
-.bg-light-gradient-bt {
-  background-image: linear-gradient(to bottom, hsl(30, 50%, 99%), hsl(50, 43%, 90%), hsl(43, 54%, 85%));
-}
-
-.bg-light-gradient-tb {
-  background-image: linear-gradient(to bottom, hsl(43, 54%, 85%), hsl(50, 43%, 90%), hsl(30, 50%, 99%));
-}
-
-.text-bg-gradient-dark-bt {
-  background-image: linear-gradient(to bottom, hsla(30, 50%, 90%, 0.9), hsla(50, 43%, 83%, 0.9), hsla(43, 54%, 77%, 0.9)), url("../img/text-bg.png");
-  background-size: cover;
-}
-
-.text-bg-gradient-light-tb {
-  background-image: linear-gradient(to bottom, hsla(43, 54%, 77%, 0.9), hsla(50, 43%, 83%, 0.9), hsla(30, 50%, 90%, 0.9)), url("../img/text-bg.png");
-  background-size: cover;
-}
 
 .accent-bar {
   height: 10px;
   width: 100%;
+  background-color: darkslategrey;
 }
 
 .invisible {
@@ -197,7 +169,7 @@ a:hover {
 }
 
 a {
-  color: #792421;
+  color: #0b5d68;
   text-decoration: none;
 }
 
@@ -2404,7 +2376,7 @@ tei-textdesc {
 /* title */
 tei-tei tei-title {
   display: inline;
-  weight: 30;
+  font-weight: 00;
 }
 
 tei-tei tei-title[level=a] {

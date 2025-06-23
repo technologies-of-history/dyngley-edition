@@ -17,7 +17,7 @@ div.toc-bg {
     width: 300px;
     z-index: -1;
     height: 100%;
-    background: linear-gradient(to bottom, #f2e6d9, #e6e0c1, #e4d2a5);
+    background-color: gray;
 }
 aside.toc {
     box-sizing: border-box;
@@ -39,7 +39,7 @@ aside.toc {
     }
     ul {
         list-style: none;
-        font-family: "Lato", sans-serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         font-weight: 700;
         font-size: 18px;
         margin: 0;
@@ -50,7 +50,7 @@ aside.toc {
                 color: black;
                 text-decoration: none;
                 &:hover {
-                    color: #792421;
+                    color: darkslategrey;
                     cursor: pointer;
                 }
             }
