@@ -1,4 +1,33 @@
+//google fonts
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
+
 content.homepage {
     height: 100%;
-    color: white;
+    color: black ;
+    background-color: white;
+
+    h1 {
+    font-family: 'Jim Nightshade';
+    font-weight: 300;
+    font-size: 65px;
+    color: black;
+    border-radius: 8px;
+    text-align: center;
+    border-color: black;
 }
+
+    h3 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 100;
+        font-size: 18px;
+        text-align: center;
+        }
+
+}
+
+img.homepage {
+       width: 100%;
+       margin: 0px 0px -20px 0px;
+       border: 1px solid black;
+    }
+

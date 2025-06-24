@@ -1,25 +1,31 @@
 ---
 title: "Introduction"
-draft: true
+draft: false
 menu: "main"
 weight: 10
 ---
 
-# Introduction
-
-## Manuscripts & the Intergenerational Movement of Medical Knowledge in Early Modern England
-
-Historians of science agree that something pivotal happened in England in the latter decades of the sixteenth century, as medieval theories about the body or the natural world diminished in the face of new discoveries, new ideas, and a new experimental method. And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, and farmers tell a different story, one that this project seeks to explore. Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. _Old Books, New Attitudes_ seeks to understand why early modern readers valued this medieval knowledge; how generations of readers engaged with these manuscripts over time; and what role these older books played in the development of the new medical sciences. 
-
-The first stage of the project focuses on Trinity College Cambridge MS O.8.35, a later fifteenth-century guide to medical practice and one of at least five Middle English “how-to” manuscripts owned by Henry Dyngley (ca. 1515-1589). EditionCrafter provides the ready-made infrastructure for a digital critical edition of TCC MS O.8.35 that encodes both the medieval origins, materials, and methods of the recipes and instructions original to the manuscript, as well as reader marks and signatures that demonstrate the use and reuse of the manuscript over time. If the prototype edition of TCC MS O.8.35 is a success, _Old Books, New Attitudes_ will produce digital editions of Dyngley’s other medieval manuscripts with the goal of reconstructing Dyngley’s library, and by extension, the sources he mined as author of Wellcome MS 244, a huge compendium of medical, alchemical, and meteorological knowledge. 
+Historians of medicine and science agree that something pivotal happened in England in the latter decades of the sixteenth century, as medieval theories about the body or the natural world diminished in the face of new discoveries, new ideas, and a new experimental method. And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, and farmers tell a different story, one that this project seeks to explore. Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. _Old Books, New Attitudes_ seeks to understand why early modern readers valued this medieval knowledge; how generations of readers engaged with these manuscripts over time; and what role these older books played in the development of the new medical sciences by digitally reconstructing the manuscript collection of a single, early modern collector: the sixteenth-century gentleman Henry Dyngley.
 
 The aim of the project is to reconstruct the intergenerational transference of medical and scientific knowledge in books, and to show how medieval sources played an important role in facilitating a culture of scientific exchange and inquiry in early modern England.
 
 ## Why Henry Dyngley?
 
-Dyngley was born around 1515, probably near his family's manor home of Charlton in the parish of Cropthorne, Worcestershire. The Dyngley family had been in possession of that estate since the late fourteenth century, but in 1541, Henry inherited it from his father, John. 
+Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture, but one of the most avid was Henry Dyngley, an Elizabethan gentleman who owned and annoted at least five fifteenth-century Middle English medical manuscripts. Dyngley's collecting habits were first noticed by the late Lister Matheson, who compiled notes on Dyngley's annotations in two manuscripts and one printed book held in the Welcome Collection in the early 2000s. Matheson's notes were an incredible resource for this project's lead researcher, Dr. Melissa Reynolds, as she began to  a study of later medieval English 'how-to' manuscripts and their role in the Dyngley's marginalia in these same manuscripts noticed by Matheson, another four fiftenth-century manuscripts, bringing the handlist of Dyngley's library to a total of seven items:
+
+* [Wellcome Library MS 5262](https://wellcomecollection.org/works/nuckbt25/items), a late fourteenth-century collection of Middle English medical recipes, possibly created at Winchcombe Abbey in Gloucestershire
+* [Bodleian Library MS Rawlinson C.506](https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8244), a mid-fifteenth century manuscript composed of several, originally-separate manuscripts related to medicine, agriculture, and husbandry, which were joined together by a later medieval or early modern reader
+* British Library MS Royal 17 A.xxxii, a manuscript from the first half of the fifteenth century containing Middle English texts on prognostication, an herbal, and a collection of medical receipts
+* [Trinity College Cambridge Library MS O.8.35](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35), a later fifteenth-century Middle English all-purpose medical guidebook, identical in format and contents to Bodleian Library MS Add. B.60
+* [Trinity College Cambridge MS R.14.52](https://mss-cat.trin.cam.ac.uk/Manuscript/R.14.52), a mid-fifteenth century manuscript featuring several translations of learned, Latinate medical texts in Middle English
+* [Welcome Library MS 244](https://wellcomecollection.org/works/zztf5pre), a later sixteenth- and seventeenth-century manuscript of medical, meteorological, and alchemical knowledge, begun by Henry Dyngley and completed by his descendants
+* [Wellcome EPB/A/7330, _A newe book Entituled the Gouvernement of Healthe_, by William Bulleyn](https://wellcomecollection.org/works/bga5qyg2), a medical manual and dietary published in London in 1558
+
+The first stage of this project, focuses on Trinity College Cambridge MS O.8.35. To read more about this manuscript, Henry Dyngley, and manuscript collecting in sixteenth-century England, visit the Introductions page.Dyngley was born around 1515, probably near his family's manor home of Charlton in the parish of Cropthorne, Worcestershire. The Dyngley family had been in possession of that estate since the late fourteenth century, but in 1541, Henry inherited it from his father, John. 
 
 ## About Trinity College Cambridge MS O.8.35
+
+The first stage of the project, begun in summer 2023, focuses on Trinity College Cambridge MS O.8.35, a later fifteenth-century medical textbook filled with recipes, . EditionCrafter provides the ready-made infrastructure for a digital critical edition of TCC MS O.8.35 that encodes both the medieval origins, materials, and methods of the recipes and instructions original to the manuscript, as well as reader marks and signatures that demonstrate the use and reuse of the manuscript over time. If the prototype edition of TCC MS O.8.35 is a success, _Old Books, New Attitudes_ will produce digital editions of Dyngley’s other medieval manuscripts with the goal of reconstructing Dyngley’s library, and by extension, the sources he mined as author of Wellcome MS 244, a huge compendium of medical, alchemical, and meteorological knowledge. 
 
 This open-access critical edition is only possible thanks to the digitization efforts of the librarians at Trinity College. TCC MS O.8.35 has been digitized in IIIF format; the link to the IIIF manifest is here: [https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json). Additional information on the manuscript's contents, format, and provenance is available in the Wren Library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35).
 
