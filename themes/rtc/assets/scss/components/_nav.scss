@@ -26,17 +26,18 @@ header nav {
         flex-flow: row nowrap;
     }
     @include for-desktop-up {
-        padding: 5px 50px;
+        padding: 20px 50px 5px;
     }
 
 .home-link {
         color: white;
         font-family: 'Jim Nightshade';
-        }
- h2 {
+
+        h2 {
         font-weight:100;
         font-size: 40px;
- }
+    }
+    }
 
     // list of nav items
     & > ul {

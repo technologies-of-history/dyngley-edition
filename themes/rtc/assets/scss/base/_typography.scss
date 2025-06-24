@@ -20,7 +20,9 @@ h1.section-title {
     align-items: center;
     margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: lightgray;
+    background-image: url(".../static/dyngley-banner.png");
+    background-repeat: no-repeat;
+    background-position: left center;
     background-size: cover;
     font-size: 20px;
     height: 83px;
