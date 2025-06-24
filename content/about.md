@@ -4,16 +4,15 @@ menu: "main"
 weight: 30
 ---
 
-# About
+## Developing the Edition and Site
 
-Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. This project seeks to understand why early modern readers valued this medieval knowledge, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of the new science through the manuscript collection of Henry Dyngley (ca. 1515–1598). Dyngley's collecting habits were first noticed by the late Lister Matheson, whose notes on Dyngley's annotations in two manuscripts and one printed book held in the Welcome Collection. Since 2013, the project's lead researcher, Melissa Reynolds, has identified Dyngley's marginalia in another four fiftenth-century manuscripts, bringing the handlist of Dyngley's library to a total of seven items:
+This site was developed on a Hugo template hosted on [GitHub pages](https://github.com/technologies-of-history/dyngley-edition). The linked repository contains the basic content for the site: the Introduction, About, Credit, and Resources pages. The data and metadata generated from the manuscript transcriptions and annotations are held in a separate GitHub repository, [technologies-of-history/dyngley-data](https://github.com/technologies-of-history/dyngley-data). The two repositories are linked to one another with EditionCrafter, a publication tool for digital critical editions under development by the [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), and a number of case-study collaborators. 
 
-* [Wellcome Library MS 5262](https://wellcomecollection.org/works/nuckbt25/items), a late fourteenth-century collection of Middle English medical recipes, possibly created at Winchcombe Abbey in Gloucestershire
-* [Bodleian Library MS Rawlinson C.506](https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8244), a mid-fifteenth century manuscript composed of several, originally-separate manuscripts related to medicine, agriculture, and husbandry, which were joined together by a later medieval or early modern reader
-* British Library MS Royal 17 A.xxxii, a manuscript from the first half of the fifteenth century containing Middle English texts on prognostication, an herbal, and a collection of medical receipts
-* [Trinity College Cambridge Library MS O.8.35](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35), a later fifteenth-century Middle English all-purpose medical guidebook, identical in format and contents to Bodleian Library MS Add. B.60
-* [Trinity College Cambridge MS R.14.52](https://mss-cat.trin.cam.ac.uk/Manuscript/R.14.52), a mid-fifteenth century manuscript featuring several translations of learned, Latinate medical texts in Middle English
-* [Welcome Library MS 244](https://wellcomecollection.org/works/zztf5pre), a later sixteenth- and seventeenth-century manuscript of medical, meteorological, and alchemical knowledge, begun by Henry Dyngley and completed by his descendants
-* [Wellcome EPB/A/7330, _A newe book Entituled the Gouvernement of Healthe_, by William Bulleyn](https://wellcomecollection.org/works/bga5qyg2), a medical manual and dietary published in London in 1558
+EditionCrafter, under development (2022-2024), is designed to be an open-source, customizable publishing tool that will allow users to deploy their own texts, data, and commentary as low-maintenance digital critical editions. It will enable the creation of static sites that rely on basic well-established technologies and workflows to address issues of longevity, maintenance, sustainability, and cost. For more about this work, see the NSF award announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false).
 
-The first stage of this project, begun in summer 2023, focuses on Trinity College Cambridge MS O.8.35. To read more about this manuscript, Henry Dyngley, and manuscript collecting in sixteenth-century England, visit the Introductions page.
+This project builds upon the publication of *[Secrets of Craft and Nature. A Digital Critical Edition of BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/)* by the Making and Knowing Project. The underlying software developed for *Secrets of Craft and Nature* will serve as the starting point for EditionCrafter. 
+
+## Contact
+
+Dr. Melissa Reynolds
+[m.reynolds1[at]tcu.edu](mailto:m.reynolds1@tcu.edu)
