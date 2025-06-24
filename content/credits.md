@@ -5,8 +5,9 @@ menu: "main"
 weight: 40
 ---
 
-Project lead: Melissa Reynolds, Assistant Professor of History, Texas Christian University
+## Lead Editor
+Melissa Reynolds, Assistant Professor of History, Texas Christian University
 
-Contact: [m.reynolds1[at]tcu.edu](mailto:m.reynolds1@tcu.edu)
+## Student Researchers
 
-Student researchers coming soon!
+Coming soon!

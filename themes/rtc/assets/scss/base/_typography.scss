@@ -1,4 +1,5 @@
 // google fonts
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
 
 // link styles
 a {
@@ -19,16 +20,19 @@ h1.section-title {
     display: flex;
     align-items: center;
     margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: lightgray;
+    font-family: 'Jim Nightshade';
+    font-weight: 100;
+    background-image: url("https://raw.githubusercontent.com/technologies-of-history/dyngley-edition/refs/heads/dev/themes/rtc/static/dyngley-banner.png");
+    background-repeat: no-repeat;
+    background-position: right center;
     background-size: cover;
-    font-size: 20px;
-    height: 83px;
+    font-size:36px;
+    height: 100px;
     padding-left: 20px;
     @include for-tablet-up {
-        font-size: 32px;
-        height: 132px;
-        padding-left: 160px;
+        font-size: 60px;
+        height: 170px;
+        padding-left: 110px;
     }
     // elevation
     box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
@@ -38,7 +42,7 @@ h1.section-title {
 }
 
 content {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     // Line spacing for paragraphs and lists
     p {
         line-height: 1.25;
@@ -55,26 +59,27 @@ content {
     h5,
     h6 {
         margin: 30px 0 0 0;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: 'Jim Nightshade';
+        font-weight: 100;
         color: black;
         padding: 0;
         scroll-margin-top: 100px;
     }
     h2 {
         position: relative;
-        font-size: 22px;
+        font-size:24px;
         font-weight: 400;
         margin-bottom: 30px;
         @include for-tablet-up {
-            font-size: 26px;
+            font-size: 36px;
         }
         &::before {
             position: absolute;
             content: "";
             height: 1px;
-            background-color: #d1d1d1;
+            background-color: lightslategray;
             width: 100%;
-            bottom: -5px;
+            bottom: -10px;
             border-radius: 2px;
         }
     }

@@ -13,7 +13,7 @@ ul.resources {
         justify-content: center;
         width: 100%;
         height: 100%;
-        background-color: #792421;
+        background-color: darkslategray;
         color: white;
         padding: 5px;
         border-radius: 0;
@@ -28,7 +28,7 @@ ul.resources {
         line-height: 1.75;
         letter-spacing: 0.02857em;
         &:hover {
-            background-color: rgb(84, 25, 23);
+            background-color: darkslategray;
             text-decoration: none;
         }
         &:active {
