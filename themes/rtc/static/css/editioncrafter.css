@@ -2416,8 +2416,8 @@ tei-typedesc {
 }
 
 /* u */
-tei-u:before {
-  content: "-";
+tei-u {
+  text-decoration: underline;
 }
 
 tei-view {
