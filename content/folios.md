@@ -6,6 +6,6 @@ type: "editioncrafter"
 documentName: "TCC MS O.8.35"
 documentURL: "https://technologies-of-history.github.io/dyngley-data/dyngley/iiif/manifest.json"
 transcriptionTypes:
-    Transcription: "text"
+    text: "Transcription"
 weight: 20
 ---
