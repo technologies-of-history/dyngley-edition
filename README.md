@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/574679318.svg)](https://zenodo.org/badge/latestdoi/574679318)
 
-https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/
+https://technologies-of-history.github.io/dyngley-edition
 
 # EditionCrafter Website Repository for Dyngley Family
 This is the repository for the website containing the Dyngley Family edition built with EditionCrafter. It contains the stub markdown pages and navigation for the websites.
