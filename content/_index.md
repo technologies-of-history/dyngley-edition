@@ -6,5 +6,5 @@ draft: false
 
 To learn more about Henry Dyngley and his manuscript collection, visit the [Introduction](./introduction.md) page. To read about student-centered transcription, digital history, and the digital platforms and tools involved in this project, visit the [About](./about.md) page. To read a partial transcription of one of Dyngley's manuscripts, Trinity College Cambridge MS O.8.35, visit the [Folios](./folios.md) page. 
 
-Check back in Spring 2026 to see more progress and read up on student contributors on the [Credits](./credits.md) page!
+Several pages of TCC MS O.8.35 were transcribed by students in the Technologies of History from Cuneiform to Coding, taught at TCU in the spring of 2026. To learn about these student contributors, visit the [Credits](./credits.md) page!
 
