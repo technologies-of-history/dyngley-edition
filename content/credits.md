@@ -2,7 +2,7 @@
 title: "Credits"
 draft: false
 menu: "main"
-weight: 40
+weight: 50
 ---
 
 ## Lead Editor
