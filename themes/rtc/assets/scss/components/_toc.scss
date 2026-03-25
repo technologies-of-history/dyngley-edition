@@ -17,7 +17,8 @@ div.toc-bg {
     width: 300px;
     z-index: -1;
     height: 100%;
-    background-color: darkslategray;
+    background-color: white;
+    border-right: 1px solid black;
 }
 aside.toc {
     box-sizing: border-box;
@@ -40,20 +41,21 @@ aside.toc {
     ul {
         list-style: none;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-weight: 600;
-        font-size: 20px;
+        line-height: 1.4;
         color: white;
         margin: 20px 0px 0px 20px;
         padding: 0;
         li {
-            margin-bottom: 20px;
+            margin-bottom: 18px;
             a {
-                color: white;
-                font-weight: 300;
+                color: black;
+                font-size: 16px;
+                font-weight: 700;
                 text-decoration: none;
                 &:hover {
-                    color: darkgray;
+                    color: darkslategray;
                     cursor: pointer;
+                    font-weight: 900;
                 }
             }
             ul {

@@ -1,11 +1,11 @@
 {{ define "main" }}
-    <h1 class="page-title">{{ .Title }}</h1>
     <div class="toc-content-container">
         <div class="toc-bg"></div>
         <aside class="toc">
             {{ .TableOfContents }}
         </aside>
         <content>
+            <h1 class="page-title">{{ .Title }}</h1>
             {{ .Content }}
         </content>
     </div>
