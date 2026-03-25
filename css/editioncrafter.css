@@ -2376,7 +2376,7 @@ tei-textdesc {
 /* title */
 tei-tei tei-title {
   display: inline;
-  font-weight: 00;
+  font-weight: 300;
 }
 
 tei-tei tei-title[level=a] {
