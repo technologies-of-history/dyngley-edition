@@ -4,7 +4,11 @@
 content.homepage {
     height: 100%;
     color: black ;
-    background-color: white;
+    background-image: url("https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F267_O.8.35_f126r.jp2/full/2967,/0/default.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
 
     h1 {
     font-family: 'Jim Nightshade';
@@ -22,8 +26,9 @@ content.homepage {
         }
         
     p {
-        text-align: center;
-        padding: 20px;
+        background-color: white;
+        text-align: left;
+        padding: 15px;
         @include for-tablet-up {
             margin: 0px 100px 0px 100px;
             font-size: 20px;
@@ -33,7 +38,6 @@ content.homepage {
 
 img.homepage {
        width: 100%;
-       margin: 0px 0px -20px 0px;
        border: 1px solid black;
     }
 

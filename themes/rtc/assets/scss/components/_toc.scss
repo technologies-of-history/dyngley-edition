@@ -40,7 +40,7 @@ aside.toc {
     ul {
         list-style: none;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-weight: 300;
+        font-weight: 600;
         font-size: 20px;
         color: white;
         margin: 20px 0px 0px 20px;
@@ -50,7 +50,7 @@ aside.toc {
             a {
                 color: white;
                 font-weight: 300;
-                text-decoration: underline;
+                text-decoration: none;
                 &:hover {
                     color: darkgray;
                     cursor: pointer;
