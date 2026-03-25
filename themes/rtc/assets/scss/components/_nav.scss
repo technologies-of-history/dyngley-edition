@@ -13,7 +13,9 @@ header nav {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    background-color: black;
+    background-image: url(https://raw.githubusercontent.com/technologies-of-history/dyngley-edition/refs/heads/dev/themes/rtc/static/dyngley-banner.png);
+    background-repeat: no-repeat;
+	background-position: center top;
     border-radius: 0;
     box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
         0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
