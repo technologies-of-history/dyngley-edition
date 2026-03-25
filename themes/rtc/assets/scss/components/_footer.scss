@@ -47,12 +47,15 @@ footer {
         }
     }
     .logos img {
-        width: 50px;
         object-fit: scale-down;
         @include for-tablet-up {
-            width: 250px;
+            width: 80px;
         }
+
+        @include for-desktop-up {
+            width: 150px;
     }
+}
     .footer-links {
         width: 100%;
         text-align: center;
