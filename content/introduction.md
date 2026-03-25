@@ -33,11 +33,16 @@ Dyngley's collecting habits were first noticed by the late Lister Matheson, who 
 
 ## About Trinity College Cambridge MS O.8.35
 
-The first stage of the project, begun in summer 2023, focuses on Trinity College Cambridge MS O.8.35, a later fifteenth-century medical textbook filled with recipes, instructions for bloodletting, information on astrology, and on humoral medicine. Additional information on the manuscript's contents, format, and provenance is available in the Wren Library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35).
+The first stage of the project, begun in summer 2023, focuses on Trinity College Cambridge MS O.8.35, a later fifteenth-century medical textbook filled with recipes, instructions for bloodletting, information on astrology, and on humoral medicine. Additional information on the manuscript's contents, format, and provenance is available in the Wren Library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35). This manuscript was an ideal place to start because, while it wasn't Dyngley's first acquisition, it has significance in the broader ecosystem of Middle English medicine.
 
-This manuscript is an ideal starting point for several reasons:
-1. It is written in a regular, professional script that is relatively easy for students who have little to no familiarity with Middle English paleography to decipher.
-2. The manuscript has been fully digitized in IIIF format (link to the manifest [here](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json)). 
-3. The manuscript is identical (in handwriting, contents, layout, format, etc.) to a manuscript in the Bodleian Library, MS Add. B.60, which suggests that it may have been mass produced in later fifteenth-century England as a kind of all-purpose medical textbook.
+In fact, TCC MS O.8.35 is identical—in contents, format, script, and materials–to Bodleian Library MS Add B.60. The identical nature of these two manuscripts suggests, perhaps, that they were produced on speculation by an industrious fifteenth-century scribe or stationer. The contents of both manuscripts support this hypothesis. Both contain a typical array of Middle English recipes, but they also include basic primers on the four humors, four seasons, astrological cycles, apothecaries' weights and measures, and medical nomenclature. In other words, these manuscripts would have been excellent all-purpose primers for a novice student of medieval medicine.
+
+The other reason that TCC MS O.8.35 was selected as the first manuscript for transcription has to do with its format. It is written in a very neat and consistent professional hand, making it easier for undergraduate students to hone their paleographic skills. Other manuscripts in Dyngley's collection, like Bodleian MS Rawlinson C.506, are much more eclectic and inconsistent in the various hands that appear on its pages. Finally, and most importantly, the librarians at the Wren Library, Trinity College Cambridge, have fully digitized TCC MS O.8.35 in IIIF format, which is a requirement for EditionCrafter to produce a viable digital edition.
+
+## Future Plans
+
+While efforts are underway to complete the transcription of TCC MS O.8.35, the planned schedule for this work may continue for several years, as most work will be undertaken by undergraduate students. After producing a full transcription, our aim is to mark-up the text with tags that may help researchers understand Dyngley's interest and engagement with medieval medicine more fully. In future, we hope to have a search function within the site that will enable querying the manuscript for tools, ingredients, or special terms.
+
+In addition, we hope to begin work on translating another of Dyngley's manuscripts, Wellcome MS 5262, in the near future. This manuscript *may* have been Dyngley's first acquisition, and it is also the earliest within Dyngley's collection. Both the hand and orthography of Wellcome 5262 are more challenging than TCC MS O.8.35, as it dates from the last quarter of the fourteenth century, making it one of the oldest Middle English medical manuscripts extant today. Advanced undergraduate students and graduate students may begin work on this transcription in Spring of 2027.
 
 

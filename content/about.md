@@ -4,15 +4,13 @@ menu: "main"
 weight: 50
 ---
 
-## Crowd-sourcing the Edition
+## Crowd-sourcing Dyngley's Digital Library
 
 Old Books, New Science is designed as a student-centered digital humanities initiative, intended to introduce undergraduate students at Texas Christian University in the course [Technologies of History from Cuneiform to Coding](https://technologies-of-history.github.io/course) to both digital and historical research methods. Students undertake the work of transcribing Dyngley's manuscripts as one of several "digital tools" assignments taught during the course, which traces the history of communications technologies from the invention of writing in the ancient Near East, to the invention of coding. Each week, students are introduced to digital projects, archives, or initiatives that facilitate more open and accessible research into these communications technologies. As students visit these projects, they learn about the digital infrastructure that makes much of this work possible and to gain experience working with particular "digital tools."
 
 Students work with Dyngley's manuscripts as the central component of their third digital tools assignment. For this assignment, students are assigned a set of pages to transcribe in plain text files (one for each page of the manuscript), which are then uploaded into a GitHub repository, [technologies-of-history/dyngley-data](https://github.com/technologies-of-history/dyngley-data). 
 
-After completing their transcriptions and uploading their .txt files to a branch of the dyngley-data repository, students generate pull requests to alert the lead editor, Dr. Melissa Reynolds, that files should be checked over for errors. Once each transcription file has been checked, Dr. Reynolds merges these pull requests into the dyngley-data repository, pulls these uploaded files down into her local repository, and runs the EditionCrafter CLI to generate the necessary XML and IIIF files for the edition.
-
-For more on this specific assignment, view the [assignment description](https://technologies-of-history.github.io/course/digitaltools3) on the course syllabus, or check out students' reflections on the work of transcription on our course [blog](https://technologies-of-history.github.io/spring-2026).
+After completing their transcriptions and uploading their .txt files to a branch of the dyngley-data repository, students generate pull requests to alert the lead editor, Dr. Melissa Reynolds, that files should be checked over for errors. Once each transcription file has been checked, Dr. Reynolds merges these pull requests into the dyngley-data repository, pulls these uploaded files down into her local repository, and runs the EditionCrafter CLI to generate the necessary XML and IIIF files for the edition. For more on this specific assignment, view the [assignment description](https://technologies-of-history.github.io/course/digitaltools3) on the course syllabus, or check out students' reflections on the work of transcription on our course [blog](https://technologies-of-history.github.io/spring-2026).
 
 For more on the workflow and command line interface for EditionCrafter, view the User Guide at [EditionCrafter.org](https://editioncrafter.org).
 
