@@ -34,7 +34,14 @@ header nav {
         font-family: 'Jim Nightshade';
         font-weight: 100;
         font-size: 28px;
-    }
+        a {
+            color: white;
+            &:hover {
+                color: darkslategray;
+                text-decoration: none;
+                }
+        }
+    } 
     // list of nav items
     & > ul {
         // only display when checked on mobile

@@ -10,7 +10,7 @@ Melissa Reynolds, Assistant Professor of History, Texas Christian University
 
 ## Student Researchers
 
-| **Student Contributor**   | **Folio Transcribed in TCC MS O.8.35** |
+| **Student**   | **Folio Transcribed** |
 | :--- | :---: | ------: |
 | Jane Allinger | [f. 64r](https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f142/f/f142/text) |
 | Fiona Corrigan | [f. 64v](https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f143/f/f143/text) |

@@ -20,9 +20,7 @@ h1.section-title {
     display: flex;
     align-items: center;
     margin: 0;
-    font-family: 'Jim Nightshade';
-    font-weight: 100;
-    background-image: url('/themes/rtc/static/dyngley-image.jpeg');
+    background-image: url('https://github.com/technologies-of-history/dyngley-edition/blob/dev/themes/rtc/static/dyngley-image.jpeg?raw=true');
     background-repeat: no-repeat;
     background-position: 0% 38%;
     background-size: cover;
@@ -40,11 +38,18 @@ content {
     font-family: Georgia, 'Times New Roman', Times, serif;
     // Line spacing for paragraphs and lists
     p {
+        font-size: 16px;
         line-height: 1.25;
         padding-bottom: 1em;
     }
     li {
-        line-height: 1.5;
+        font-size: 16px;
+        line-height: 1.25;
+    }
+
+    table {
+        font-size: 16px;
+        line-height: 1.25;
     }
     // content page inner headings
     h1,
