@@ -1,2 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Old Books, New Attitudes</title><link>https://technologies-of-history.github.io/dyngley-edition/</link><description>Recent content on Old Books, New Attitudes</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><copyright>Copyright © 2026</copyright><atom:link href="https://technologies-of-history.github.io/dyngley-edition/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://technologies-of-history.github.io/dyngley-edition/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/introduction/</guid><description>The Project Historians of medicine and science agree that something pivotal happened in England in the latter decades of the sixteenth century, as medieval theories about the body or the natural world diminished in the face of new discoveries, new ideas, and a new experimental method. And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, and farmers tell a different story, one that this project seeks to explore. Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture.</description></item><item><title>TCC MS O.8.35</title><link>https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/</guid><description/></item><item><title>Wellcome MS 5262</title><link>https://technologies-of-history.github.io/dyngley-edition/wellcome_5262/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/wellcome_5262/</guid><description/></item><item><title>Credits</title><link>https://technologies-of-history.github.io/dyngley-edition/credits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/credits/</guid><description>Lead Editor Melissa Reynolds, Assistant Professor of History, Texas Christian University
-Student Researchers Student Folio Transcribed Jane Allinger f. 64r Fiona Corrigan f. 64v Camila Erazo f. 65r Hudson Hahn f. 65v Stella Lenzie f. 66r Kasia Love f. 66v Jonathan Martinez f. 67r Kylie Millar f. 67v Aiden Reed f. 68r Keilah Scott f. 68v David Smith f. 69r Andrew Stillwell f. 69v, top f. 70v, bottom Vivian Velasquez f.</description></item><item><title>About</title><link>https://technologies-of-history.github.io/dyngley-edition/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/about/</guid><description>Crowd-sourcing Dyngley&amp;rsquo;s Digital Library Old Books, New Science is designed as a student-centered digital humanities initiative, intended to introduce undergraduate students at Texas Christian University in the course Technologies of History from Cuneiform to Coding to both digital and historical research methods. Students undertake the work of transcribing Dyngley&amp;rsquo;s manuscripts as one of several &amp;ldquo;digital tools&amp;rdquo; assignments taught during the course, which traces the history of communications technologies from the invention of writing in the ancient Near East, to the invention of coding.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Old Books, New Attitudes</title><link>https://technologies-of-history.github.io/dyngley-edition/</link><description>Recent content on Old Books, New Attitudes</description><generator>Hugo</generator><language>en-US</language><copyright>Copyright © 2026</copyright><atom:link href="https://technologies-of-history.github.io/dyngley-edition/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://technologies-of-history.github.io/dyngley-edition/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/introduction/</guid><description>&lt;h2 id="the-project">The Project&lt;/h2>
+&lt;p>Historians of medicine and science agree that something pivotal happened in England in the latter decades of the sixteenth century, as medieval theories about the body or the natural world diminished in the face of new discoveries, new ideas, and a new experimental method. And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, and farmers tell a different story, one that this project seeks to explore. Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. &lt;em>Old Books, New Attitudes&lt;/em> seeks to understand why early modern readers valued this medieval knowledge; how generations of readers engaged with these manuscripts over time; and what role these older books played in the development of the new medical sciences by digitally reconstructing the manuscript collection of a single, early modern collector: the sixteenth-century gentleman Henry Dyngley.&lt;/p></description></item><item><title>TCC MS O.8.35</title><link>https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/</guid><description/></item><item><title>Wellcome MS 5262</title><link>https://technologies-of-history.github.io/dyngley-edition/wellcome_5262/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/wellcome_5262/</guid><description/></item><item><title>Credits</title><link>https://technologies-of-history.github.io/dyngley-edition/credits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/credits/</guid><description>&lt;h2 id="lead-editor">Lead Editor&lt;/h2>
+&lt;p>Melissa Reynolds, Assistant Professor of History, Texas Christian University&lt;/p>
+&lt;h2 id="student-researchers">Student Researchers&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Student&lt;/strong>&lt;/th>
+ &lt;th style="text-align: center">&lt;strong>Folio Transcribed&lt;/strong>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jane Allinger&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f142/f/f142/text">f. 64r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Fiona Corrigan&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f143/f/f143/text">f. 64v&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Camila Erazo&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f144/f/f144/text">f. 65r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Hudson Hahn&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f145/f/f145/text">f. 65v&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Stella Lenzie&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f146/f/f146/text">f. 66r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Kasia Love&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f147/f/f147/text">f. 66v&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Jonathan Martinez&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f148/f/f148/text">f. 67r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Kylie Millar&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f149/f/f149/text">f. 67v&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Aiden Reed&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f150/f/f150/text">f. 68r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Keilah Scott&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f151/f/f151/text">f. 68v&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">David Smith&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f152/f/f152/text">f. 69r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Andrew Stillwell&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f153/f/f153/text">f. 69v, top&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f155/f/f155/text">f. 70v, bottom&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Vivian Velasquez&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f156/f/f156/text">f. 71r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Hailey Stuart&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f157/f/f157/text">f. 71v&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Katie Tovar&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f158/f/f158/text">f. 72r&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>About</title><link>https://technologies-of-history.github.io/dyngley-edition/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://technologies-of-history.github.io/dyngley-edition/about/</guid><description>&lt;h2 id="crowd-sourcing-dyngleys-digital-library">Crowd-sourcing Dyngley&amp;rsquo;s Digital Library&lt;/h2>
+&lt;p>Old Books, New Science is designed as a student-centered digital humanities initiative, intended to introduce undergraduate students at Texas Christian University in the course &lt;a href="https://technologies-of-history.github.io/course">Technologies of History from Cuneiform to Coding&lt;/a> to both digital and historical research methods. Students undertake the work of transcribing Dyngley&amp;rsquo;s manuscripts as one of several &amp;ldquo;digital tools&amp;rdquo; assignments taught during the course, which traces the history of communications technologies from the invention of writing in the ancient Near East, to the invention of coding. Each week, students are introduced to digital projects, archives, or initiatives that facilitate more open and accessible research into these communications technologies. As students visit these projects, they learn about the digital infrastructure that makes much of this work possible and to gain experience working with particular &amp;ldquo;digital tools.&amp;rdquo;&lt;/p></description></item></channel></rss>
