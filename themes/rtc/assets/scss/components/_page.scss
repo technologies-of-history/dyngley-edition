@@ -8,7 +8,16 @@ content {
     }
 }
 
-tei-tei tei-title {
-  display: inline;
-  font-weight: 600;
+tei-title {
+  display: inline-block;
+  font-family: "OpenSans", sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+tei-head {
+  display: inline-block;
+  font-family: "OpenSans", sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
 }
