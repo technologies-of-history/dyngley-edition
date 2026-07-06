@@ -7,6 +7,7 @@ weight: 40
 
 ## Lead Editor
 Melissa Reynolds, Assistant Professor of History, Texas Christian University
+[m.reynolds1[at]tcu.edu](mailto:m.reynolds1@tcu.edu)
 
 ## Student Researchers
 
@@ -30,4 +31,8 @@ Melissa Reynolds, Assistant Professor of History, Texas Christian University
 | Vivian Velasquez | [f. 71r](https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f156/f/f156/text) |
 | Hailey Stuart | [f. 71v](https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f157/f/f157/text) |
 | Katie Tovar | [f. 72r](https://technologies-of-history.github.io/dyngley-edition/tcc_o_8_35/#/ec/f158/f/f158/text) |
+
+## Developers
+
+This site was built with [EditionCrafter](https://editioncrafter.org) an open-source, customizable publishing tool that allows users to deploy their own texts, data, and commentary as low-maintenance digital critical editions. EditionCrafter was created by Nick Laiacona of [Performant Software Solutions](https://www.performantsoftware.com), with funding from a National Science Foundation grant led by Professor Pamela Smith at Columbia University. Site design and layout by Melissa Reynolds.
 

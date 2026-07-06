@@ -10,21 +10,15 @@ Old Books, New Science is designed as a student-centered digital humanities init
 
 Students work with Dyngley's manuscripts as the central component of their third digital tools assignment. For this assignment, students are assigned a set of pages to transcribe in plain text files (one for each page of the manuscript), which are then uploaded into a GitHub repository, [technologies-of-history/dyngley-data](https://github.com/technologies-of-history/dyngley-data). 
 
-After completing their transcriptions and uploading their .txt files to a branch of the dyngley-data repository, students generate pull requests to alert the lead editor, Dr. Melissa Reynolds, that files should be checked over for errors. Once each transcription file has been checked, Dr. Reynolds merges these pull requests into the dyngley-data repository, pulls these uploaded files down into her local repository, and runs the EditionCrafter CLI to generate the necessary XML and IIIF files for the edition. For more on this specific assignment, view the [assignment description](https://technologies-of-history.github.io/course/digitaltools3) on the course syllabus, or check out students' reflections on the work of transcription on our course [blog](https://technologies-of-history.github.io/spring-2026).
-
-For more on the workflow and command line interface for EditionCrafter, view the User Guide at [EditionCrafter.org](https://editioncrafter.org).
-
 ## Site Infrastructure
 
-This site was developed on a Hugo template hosted on [GitHub pages](https://github.com/technologies-of-history/dyngley-edition). The linked repository contains the basic content for the site: the Introduction, About, and Credit pages. The data and metadata generated from the manuscript transcriptions and annotations are held in a separate GitHub repository, [technologies-of-history/dyngley-data](https://github.com/technologies-of-history/dyngley-data). The two repositories are linked to one another with [EditionCrafter](https://editioncrafter.org), a publication tool for digital critical editions developed by the [Making and Knowing Project](https://makingandknowing.org/) (M&K) and [Performant Software Solutions](https://www.performantsoftware.com/), with funding from the National Science Foundation. 
+This site was developed on a Hugo template hosted on [GitHub pages](https://github.com/technologies-of-history/dyngley-edition). The [dyngley-edition](https://github.com/technologies-of-history/dyngley-edition) repository contains the basic content for the site: the Introduction, About, and Credit pages. The data and metadata generated from the manuscript transcriptions and annotations are held in a separate GitHub repository, [dyngley-data](https://github.com/technologies-of-history/dyngley-data). 
 
-## Developing EditionCrafter
+The two repositories are linked to one another with [EditionCrafter](https://editioncrafter.org), a publication tool for digital critical editions developed by the [Making and Knowing Project](https://makingandknowing.org/) (M&K) and [Performant Software Solutions](https://www.performantsoftware.com/), with funding from the National Science Foundation. For more about this work, see the NSF award announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false).
 
-EditionCrafter is an open-source, customizable publishing tool that will allow users to deploy their own texts, data, and commentary as low-maintenance digital critical editions. It enables the creation of static sites that rely on basic well-established technologies and workflows to address issues of longevity, maintenance, sustainability, and cost. For more about this work, see the NSF award announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false).
+## Student-Led Transcription
 
-This project builds upon the publication of *[Secrets of Craft and Nature. A Digital Critical Edition of BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/)* by the Making and Knowing Project. 
+Each page of the manuscript is transcribed in an individual .txt file. As part of their assignment, students upload their completed transcriptions (as .txt files) to a branch of the dyngley-data repository, then generate pull requests to alert the lead editor, Dr. Melissa Reynolds, that files should be checked over for errors. Once each transcription file has been checked, Dr. Reynolds merges these pull requests into the dyngley-data repository, clones these uploaded files down into her local repository, and runs the EditionCrafter CLI, which generates the necessary XML and IIIF files for the edition. For more on the workflow and command line interface for EditionCrafter, view the User Guide at [EditionCrafter.org](https://editioncrafter.org).
 
-## Contact
+For more on this specific assignment, view the [assignment description](https://technologies-of-history.github.io/course/digitaltools3) on the course syllabus, or check out students' reflections on the work of transcription on our course [blog](https://technologies-of-history.github.io/spring-2026).
 
-Dr. Melissa Reynolds
-[m.reynolds1[at]tcu.edu](mailto:m.reynolds1@tcu.edu)
